@@ -1,5 +1,7 @@
 ## Hi Everyone!
 
+<img align="center" alt="PNG" src="https://user-images.githubusercontent.com/77670512/136667746-b61b3752-caff-4210-8826-e068b50e3890.png" width="720px"/>
+
 <br/>
 
 My Name is Dzikri Faizziyan, Dzikri for short. <br/>
@@ -7,7 +9,7 @@ I love writing as much as i love reading. <br/>
 My one and only standard of morality is individual liberty.
 
 <br/>
-<img align="center" alt="PNG" src="https://user-images.githubusercontent.com/77670512/136667746-b61b3752-caff-4210-8826-e068b50e3890.png" width="720px"/>
+
   
   
 ### 😉 About Me:
