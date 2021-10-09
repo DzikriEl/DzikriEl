@@ -7,7 +7,6 @@ I love writing as much as i love reading. <br/>
 My one and only standard of morality is individual liberty.
 
 <br/>
-<br/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/77670512/136667746-b61b3752-caff-4210-8826-e068b50e3890.png" width="360px"/>
   
   
