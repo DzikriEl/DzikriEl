@@ -32,10 +32,6 @@ My one and only standard of morality is individual liberty.
 
 <br>
 
-### 📊 Github Stats
-
-<a href='https://github.com/DzikriEl/github-stats'>
-  
 ![Stats Overview](https://github.com/DzikriEl/github-stats/blob/master/generated/overview.svg)
 ![Most Used Languages](https://github.com/DzikriE/github-stats/blob/master/generated/languages.svg)
 </a>
