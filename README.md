@@ -3,7 +3,7 @@
 <br/>
 
 My Name is Dzikri Faizziyan, Dzikri for short. <br/>
-I love writing as much as i love reading. <br?>
+I love writing as much as i love reading. <br/>
 My one and only standard of morality is individual liberty.
 
 <br/>
