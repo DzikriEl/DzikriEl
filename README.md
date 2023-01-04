@@ -4,8 +4,8 @@
 
 <br/>
 
-My Name is Dzikri Faizziyan, Dzikri for short. <br/>
-I love writing as much as i love reading. <br/>
+Hi, I'm Dzikri Faizziyan, Dzikri for short. <br/>
+I am a writer and researcher currently living in West Java, Indonesia. I love writing as much as i love reading. I am also interested in programming, data science, astronomy, and technology. <br/>
 My one and only standard of morality is individual liberty.
 
 <br/>
