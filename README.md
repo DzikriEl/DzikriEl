@@ -18,7 +18,7 @@ My one and only standard of morality is individual liberty.
 - 🌱 &nbsp; I’m currently learning Data Science in Python
 - 🧩 &nbsp; Most of my projects are available on [Github](https://github.com/DzikriEl?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dzikri-faizziyan-9b4796202/)
-- 📝 &nbsp; My Blog (https://dzkaltair.medium.com/)
+- 📝 &nbsp; Find me on [Linktree](https://linktr.ee/dzikrielfaizz)
 <br>
 
 
