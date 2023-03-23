@@ -33,5 +33,11 @@ My one and only standard of morality is individual liberty.
 <a href="https://www.canva.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/77670512/136668267-587a7be0-a319-4b1b-a3c1-7b9de779e11b.jpg" alt="Canva" height='42px'/> </a>
 
 <br>
-
+<p align="left">
+<a href="https://github.com/DzikriEl/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <br>
+
